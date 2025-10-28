@@ -1,4 +1,4 @@
-# 1.avalia-o
+# 1.avaliacao
 import java.util.Scanner;
 
 public class SistemaEscolar {
